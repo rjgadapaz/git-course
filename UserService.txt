@@ -1,2 +1,3 @@
 get the user data to add to database
 process the data in teh database
+create a new avatar for an user
